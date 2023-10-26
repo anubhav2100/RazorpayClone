@@ -1,0 +1,12 @@
+--> Here I will write notes regarding this project
+Basiclly I am making a razorpay clone
+1. Flex is used to center the things
+2. used cursor pointer to change cursor from arrow to hand wala
+3. flex ki default property hoti hai ki items streach ho jaati hai
+4. inline block uses that much space which we set 
+5.learn more about svg
+6. We use group property if we have to use some property of parent
+7.If we can scroll our screen unnecessarily then we can use x overflow hidden
+8.
+9.
+10.
